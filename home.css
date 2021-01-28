@@ -1,0 +1,233 @@
+body{
+    background-color:#222831;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    color:aliceblue;
+    text-align:center;
+    font-size: 100px;
+}
+
+h4{
+    color:#008891;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+button{
+    height:50px;
+    width:150px;
+    border-radius: 20px;
+    font-size:large;
+    display:block;
+    margin-left: 670px;
+}
+
+footer{
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position:fixed;
+}
+
+#p1{
+    font-family: 'Lobster', cursive;
+    color:aliceblue;
+    font-size: 30px;
+    display:inline-block;
+    margin-left: 500px;
+}
+
+#p2{
+    font-family: 'Lobster', cursive;
+    color:aliceblue;
+    font-size: 30px;
+    display:inline-block;
+    margin-left: 300px;
+}
+
+#d1{
+    height:150px;
+    width:150px;
+    border:solid 5px;
+    border-radius: 20px;
+    background-color:#FFD369;
+    display:inline-block;
+    margin-left: 470px;
+}
+
+#d1p1{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 10px auto auto 10px;
+}
+
+#d1p2{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 10px auto auto 15px;
+}
+
+#d1p3{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 10px auto auto 15px;
+}
+
+#d1p4{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 10px;
+}
+
+#d1p5{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
+
+#d1p6{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
+
+#d1p7{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 10px;
+}
+
+#d1p8{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
+
+#d1p9{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
+
+/**************************************************************************************************************************************/
+
+#d2{
+    height:150px;
+    width:150px;
+    border:solid 5px;
+    border-radius: 20px;
+    background-color:#FFD369;
+    display: inline-block;
+    margin-left: 230px;
+}
+
+#d2p1{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 10px auto auto 10px;
+}
+
+#d2p2{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 10px auto auto 15px;
+}
+
+#d2p3{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 10px auto auto 15px;
+}
+
+#d2p4{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 10px;
+}
+
+#d2p5{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
+
+#d2p6{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
+
+#d2p7{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 10px;
+}
+
+#d2p8{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
+
+#d2p9{
+    height:30px;
+    width:30px;
+    display: inline-block;
+    background-color:#393e46;
+    border-radius: 30px;
+    margin: 15px auto auto 15px;
+}
